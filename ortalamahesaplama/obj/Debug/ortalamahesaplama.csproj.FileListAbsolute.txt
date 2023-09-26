@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\bin\Debug\ortalamahesaplama.exe.config
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\bin\Debug\ortalamahesaplama.exe
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\bin\Debug\ortalamahesaplama.pdb
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.Form1.resources
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.exe
+C:\Users\User\source\repos\ortalamahesaplama\ortalamahesaplama\obj\Debug\ortalamahesaplama.pdb
